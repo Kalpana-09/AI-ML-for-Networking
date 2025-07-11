@@ -43,3 +43,7 @@ How to Use
 4. Run `train.py` to train the model.
 5. Run `app.py` to launch the Streamlit web app and test samples.
 
+Screen Recording Video:
+https://drive.google.com/file/d/1Rd8SRnCHJX68GUqLvgqHaW3YPHprW5a6/view?usp=drive_link
+
+

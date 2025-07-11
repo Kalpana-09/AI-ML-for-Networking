@@ -1,4 +1,0 @@
-The screen recording shows how users can upload a CSV file with network traffic data into our Streamlit app. The app checks for required features, runs real-time predictions using a trained ML model, and displays the results — including a summary of detected attack types like DDoS, PortScan, and BENIGN, along with individual flow predictions.
-
-Link: https://drive.google.com/file/d/1Rd8SRnCHJX68GUqLvgqHaW3YPHprW5a6/view?usp=drive_link
-
